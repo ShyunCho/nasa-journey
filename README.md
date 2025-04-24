@@ -1,8 +1,12 @@
 # NASA Journey 🚀
 
-이 저장소는 NASA, Boeing, Apple과 같은 기업에서 소프트웨어 엔지니어로 일하고 싶은 목표를 위해 만든 학습 기록 공간입니다.
+Welcome to my personal learning space, created with one dream in mind —  
+to become a Software Engineer at groundbreaking companies like **NASA**, **Boeing**, or **Apple**.
 
-## 첫 번째 코드
+This repository will track my progress, from coding fundamentals to advanced projects, as I prepare myself for that future.
+
+
+## My First Code
 ```python
 print("Hello NASA! I'm coming 🚀")
 ```
@@ -17,5 +21,6 @@ This folder contains solutions to the [HackerRank 30 Days of Code](https://www.h
 ### 🗓️ Today’s Log
 
 - 📅 2025-04-22
-- 🔥 Day 0 완료! HackerRank 30 Days of Code 시작!
-- 🧠 GitHub 기본기 배움, README 수정 완료!
+- 🔥 Completed Day 0 of HackerRank's 30 Days of Code!
+- 🧠 Learned GitHub basics and updated my README file!
+- 💻 It felt great to write Python again after a long break. One step at a time — let’s go!
