@@ -5,3 +5,9 @@
 ## 첫 번째 코드
 ```python
 print("Hello NASA! I'm coming 🚀")
+
+## 🚀 30 Days of Code by HackerRank
+
+This folder contains solutions to the [HackerRank 30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code) challenge.
+
+- ✅ [Day 0 - Hello World](https://github.com/ShyunCho/nasa-journey/blob/main/30-days-of-code/day0-hello-world.py)
