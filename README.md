@@ -24,6 +24,13 @@ This folder contains solutions to the [HackerRank 30 Days of Code](https://www.h
 - 🔥 Completed Day 0 of HackerRank's 30 Days of Code!
 - 🧠 Learned GitHub basics and updated my README file!
 - 💻 It felt great to write Python again after a long break. One step at a time — let’s go!
+- 📅 2025-08-01: Solved Baekjoon No.1000 (A+B) in Java using IntelliJ IDEA. Learned input/output basics with Scanner.
+- 📅 2025-08-05: Reviewed Java Basics theory quiz and created study notes.
 
-## 📘 Java Theory Logs
+## 📘 Java Quiz Logs
 - [Day 1 - Java Basics](theory/day1-java-basics.md)
+
+## 🔢 Algorithm Practice (Baekjoon)
+This folder contains my algorithm practice solutions from Baekjoon Online Judge.
+
+No.1000 - A+B (baekjoon/No1000.java)✅
