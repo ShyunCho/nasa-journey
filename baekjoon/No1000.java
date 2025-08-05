@@ -1,3 +1,7 @@
+// Baekjoon No.1000 - A+B
+// Learned: How to use Scanner for input, simple addition, and printing output.
+// Date: 2025-08-01
+
 import java.util.*;
 
 public class No1000 {
