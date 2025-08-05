@@ -31,6 +31,7 @@ This folder contains solutions to the [HackerRank 30 Days of Code](https://www.h
 - [Day 1 - Java Basics](theory/day1-java-basics.md)
 
 ## 🔢 Algorithm Practice (Baekjoon)
-This folder contains my algorithm practice solutions from Baekjoon Online Judge.
+This folder contains my algorithm practice solutions from [Baekjoon Online Judge](https://www.acmicpc.net/).
 
-No.1000 - A+B (baekjoon/No1000.java)✅
+- [No.1000 - A+B](baekjoon/No1000.java) ✅
+
