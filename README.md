@@ -24,3 +24,6 @@ This folder contains solutions to the [HackerRank 30 Days of Code](https://www.h
 - 🔥 Completed Day 0 of HackerRank's 30 Days of Code!
 - 🧠 Learned GitHub basics and updated my README file!
 - 💻 It felt great to write Python again after a long break. One step at a time — let’s go!
+
+## 📘 Java Theory Logs
+- [Day 1 - Java Basics](theory/day1-java-basics.md)
